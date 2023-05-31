@@ -1,0 +1,22 @@
+{
+  "name": "click-btn-q",
+  "version": "1.0.0",
+  "description": "button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alesa3/click-btn-q.git"
+  },
+  "keywords": [
+    "btn"
+  ],
+  "author": "alesa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alesa3/click-btn-q/issues"
+  },
+  "homepage": "https://github.com/Alesa3/click-btn-q#readme"
+}
